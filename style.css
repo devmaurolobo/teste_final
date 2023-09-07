@@ -1,0 +1,41 @@
+#tela {
+
+    display: block;    
+}
+
+#titulo {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+#box {
+    width: 300px;
+    height: 500px;  
+    border-radius: 50px 50px 50px 50px;
+    border: 2px solid #000000;
+    background-color: #F0F8FF;
+    margin: 0 auto;
+    box-shadow: 17px 15px 5px 5px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 17px 15px 5px 5px rgba(0,0,0,0.1);
+    -moz-box-shadow: 17px 15px 5px 5px rgba(0,0,0,0.1);
+    padding: 30px;
+}
+
+#horario{
+    text-align: center;
+    margin-top: 10px;
+}
+
+#txtab{
+    width: 200px;
+}
+
+
+
+#rodape{
+    text-align: center;
+    margin-top: 40px;
+}
